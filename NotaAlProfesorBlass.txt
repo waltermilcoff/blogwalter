@@ -1,0 +1,4 @@
+Trabajo Final de Walter Milcoff
+1- Prepare el entorno virtual en Django 3.1
+2- Cree el Respositorio con Git y lo subi a GitHub
+3- 

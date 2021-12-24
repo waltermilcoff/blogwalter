@@ -3,3 +3,9 @@ Trabajo Final de Walter Milcoff
 2- Cree el Respositorio con Git y lo subi a GitHub
 3- Comence el proyecto con django-admin startproyect blog17ods (Blog de los 17 Objetivos de Desarrollo Sostenibles)
 5- Ahora introducir lines de codigo y dar forma al proyecto 
+6- Hechas la migraciones
+7- Cree un super usuario: con python manage.py createsuperuser
+User: mwalt
+Email: waltermilcoff@gmail.com
+Pass: michu009
+8-

@@ -12,3 +12,20 @@ Pass: michu009
 Crispy Forms (pip install django-crispy-forms)
 9-Varias veces tuve que borrar las migraciones y la base de datos, (porque me salian errores 
 que no podia solucionar) y volvia a ejecutar python manage.py migrate
+
+Conectar MySQL con Django:
+Pip install mysqlclient (dentro del entono virtual y donde está el core del proyecto)
+Modificar en setings:
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'dbwalter',
+        'USER': 'root',
+        'PASSWORD': 'michu009',
+        'HOST': 'localhost',
+        'PORT': ''
+    }
+}
+
+https://www.youtube.com/watch?v=Anxfp8R5d8w&list=WL&index=22&t=140s

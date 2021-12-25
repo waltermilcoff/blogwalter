@@ -8,4 +8,7 @@ Trabajo Final de Walter Milcoff
 User: mwalt
 Email: waltermilcoff@gmail.com
 Pass: michu009
-8-
+8-Instale en el entorno virtual: Pillow (python -m pip install pillow), Allauth (pip install django-allauth),
+Crispy Forms (pip install django-crispy-forms)
+9-Varias veces tuve que borrar las migraciones y la base de datos, (porque me salian errores 
+que no podia solucionar) y volvia a ejecutar python manage.py migrate

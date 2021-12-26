@@ -1,16 +1,17 @@
 Trabajo Final de Walter Milcoff
 1- Prepare el entorno virtual en Django 3.1
 2- Cree el Respositorio con Git y lo subi a GitHub
-3- Comence el proyecto con django-admin startproyect blog17ods (Blog de los 17 Objetivos de Desarrollo Sostenibles)
+3- Comence el proyecto con django-admin startproject blog17ods (Blog de los 17 Objetivos de Desarrollo Sostenibles)
 5- Ahora introducir lines de codigo y dar forma al proyecto 
-6- Hechas la migraciones
-7- Cree un super usuario: con python manage.py createsuperuser
+6- Cree mi app con python manage.py startapp blog posts
+7- Hechas la migraciones
+8- Cree un super usuario: con python manage.py createsuperuser
 User: mwalt
 Email: waltermilcoff@gmail.com
 Pass: michu009
-8-Instale en el entorno virtual: Pillow (python -m pip install pillow), Allauth (pip install django-allauth),
+9-Instale en el entorno virtual: Pillow (python -m pip install pillow), Allauth (pip install django-allauth),
 Crispy Forms (pip install django-crispy-forms)
-9-Varias veces tuve que borrar las migraciones y la base de datos, (porque me salian errores 
+10-Varias veces tuve que borrar las migraciones y la base de datos, (porque me salian errores 
 que no podia solucionar) y volvia a ejecutar python manage.py migrate
 
 Conectar MySQL con Django:
